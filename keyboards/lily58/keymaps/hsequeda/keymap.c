@@ -1,4 +1,5 @@
 #include QMK_KEYBOARD_H
+#include "rgblight/rgblight.h"
 
 enum layer_number {
   _QWERTY = 0,
